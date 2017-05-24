@@ -17,8 +17,8 @@ Rainbow Smelt | 160 |
 
 ![Image of Polar Bear&Fence](http://graphics8.nytimes.com/images/2011/05/19/science/19saw_sensorbear1/19saw_sensorbear1-blog480.jpg)!
 
-(https://img0.etsystatic.com/000/0/5167766/il_570xN.11811512.jpg)
+![Image of Envelope](https://img0.etsystatic.com/000/0/5167766/il_570xN.11811512.jpg)
 
-I helped with this project in the years 2012,2013,2014. The pfoject main objectives were to genetically identify bears that use bowhead whale carcasses through the hair snares and microsatellite DNA.Also to determine visation rates, if high enough, to make population estimates using mark recapture feasible. Then compare with the bone piles of Kaktovik and Utqiagvik(Barrow). 
+I helped with this project in the years 2012,2013,2014. The project main objectives were to genetically identify bears that use bowhead whale carcasses through the hair snares and microsatellite DNA.Also to determine visation rates, if high enough, to make population estimates using mark recapture feasible. Then compare with the bone piles of Kaktovik and Utqiagvik(Barrow). 
 
 The 
