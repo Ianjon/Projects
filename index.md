@@ -25,6 +25,6 @@ The method of putting up the fence is that each post is roughly 10 meters apart 
 
 # Stranded Marine Mammal Survey
 
-![Image of Poster](<blockquote class="imgur-embed-pub" lang="en" data-id="a/t47pz"><a href="//imgur.com/t47pz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![Image of Poster](http://imgur.com/A1sjYFr)
 
 
