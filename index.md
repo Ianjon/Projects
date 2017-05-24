@@ -17,8 +17,8 @@ Rainbow Smelt | 160 |
 
 ![Image of Polar Bear&Fence](http://graphics8.nytimes.com/images/2011/05/19/science/19saw_sensorbear1/19saw_sensorbear1-blog480.jpg)!
 
-![Image of Envelope](https://img0.etsystatic.com/000/0/5167766/il_570xN.11811512.jpg)
+![Image of Point Barrow](https://www.tide-forecast.com/tidelocationmaps/Point-Barrow-Alaska.10.gif)
 
-I helped with this project in the years 2012,2013,2014. The project main objectives were to genetically identify bears that use bowhead whale carcasses through the hair snares and microsatellite DNA.Also to determine visation rates, if high enough, to make population estimates using mark recapture feasible. Then compare with the bone piles of Kaktovik and Utqiagvik(Barrow). 
+I helped with this project in the years 2012,2013,2014. The project main objectives were to genetically identify bears that use bowhead whale carcasses through the hair snares and microsatellite DNA.Also to determine visation rates, if high enough, to make population estimates using mark recapture feasible. Then compare with the bone piles of Kaktovik and Utqiagvik(Barrow). The hair snare is put up at the most northern place of Alaska, Point Barrow
 
-The 
+The method of putting up the fence is that each post is roughly 10 meters apart from each other and the fence height is only .5 meters so that they can easily go over it. The spacing for same hair sampling is .75 meters apart when multiple hairs on clumped in an area. Fence is checked about every other day and if there is a bear in sight, we don't approach and turn back to the college(where NSB-DWM is stationed)
