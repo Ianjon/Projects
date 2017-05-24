@@ -2,7 +2,7 @@
 
 ### Fyke Net Study
 
-Headliner | Headliner 2 | 
-------------- | ------------- | -------------
-Content 1 | Content 2 | Conten 3
-Column 1 | Colum 2 | colum 3
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
