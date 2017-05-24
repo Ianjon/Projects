@@ -2,7 +2,8 @@
 
 ### Fyke Net Study
 
-First Header | Second Header | Third Header
+Species | Length(mm) | Comments
 ------------ | ------------- | -------------
-Content from cell 1 | Content from cell 2 |
-Content in the first column | Content in the second column |
+Fourhorn sculpin | 240 | a smaller fourhorn inside it's mouth
+Artic Cisco | 340 | parisite located on the bottom
+Rainbow Smelt | 160 | 
