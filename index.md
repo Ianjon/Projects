@@ -26,5 +26,5 @@ The method of putting up the fence is that each post is roughly 10 meters apart 
 # Stranded Marine Mammal Survey
 ![Image of Tag](http://www.north-slope.org/assets/images/uploads/Picture1.png)
 
-
+![Image of Poster](http://imgur.com/a/t47pz)
 
